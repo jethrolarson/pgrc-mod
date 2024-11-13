@@ -15,8 +15,8 @@
 [ext_resource type="PackedScene" uid="uid://dq2fgy8jxkssy" path="res://Mods/Placeholders/mod_barrier_railing.tscn" id="10_vxhwc"]
 [ext_resource type="Script" path="res://Mods/Scripts/ModTrackCamera.gd" id="12_oeimf"]
 [ext_resource type="PackedScene" uid="uid://dqqrq7ntnw2j8" path="res://Mods/Placeholders/mod_track_camera_previewer.tscn" id="13_fxgoo"]
-[ext_resource type="PackedScene" uid="uid://dp7e7e4jrfb5o" path="res://Mods/walaber_sample/Tracks/sample_track/sample_track.glb" id="14_38t6q"]
-[ext_resource type="Material" uid="uid://3g3wmcrspnk4" path="res://Mods/walaber_sample/Tracks/sample_track/sample_track_diffuse.tres" id="17_svsgk"]
+[ext_resource type="PackedScene" uid="uid://dp7e7e4jrfb5o" path="res://Mods/ross_moss/Tracks/trailhead/trailhead.glb" id="14_38t6q"]
+[ext_resource type="Material" uid="uid://3g3wmcrspnk4" path="res://Mods/ross_moss/Tracks/trailhead/sample_track_diffuse.tres" id="17_svsgk"]
 [ext_resource type="PackedScene" uid="uid://nu27gmyay3un" path="res://Mods/Placeholders/mod_intro_camera.tscn" id="18_i6lae"]
 
 [sub_resource type="Resource" id="Resource_5y32m"]

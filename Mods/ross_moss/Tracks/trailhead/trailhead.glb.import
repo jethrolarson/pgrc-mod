@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dp7e7e4jrfb5o"
-path="res://.godot/imported/sample_track.glb-21c3631ff44a7e5290846a75da2444b4.scn"
+path="res://.godot/imported/trailhead.glb-b9c5b2da04ebec25dd366c8f6b2bb001.scn"
 
 [deps]
 
-source_file="res://Mods/walaber_sample/Tracks/sample_track/sample_track.glb"
-dest_files=["res://.godot/imported/sample_track.glb-21c3631ff44a7e5290846a75da2444b4.scn"]
+source_file="res://Mods/ross_moss/Tracks/trailhead/trailhead.glb"
+dest_files=["res://.godot/imported/trailhead.glb-b9c5b2da04ebec25dd366c8f6b2bb001.scn"]
 
 [params]
 
